@@ -19,7 +19,7 @@ Here is my CS:GO setup/config:
  ## Audio;
 - In-Game Audio Ouput: Headphones(Logitech G430)
 - Audio Processing:
-  - Windows:Digital enhancements and effects are all turned off in windows and Logitech Gaming Software
+  - Windows: Digital enhancements and effects are all turned off in windows and Logitech Gaming Software
   - CS:GO: Phat load of commands below or see [This Useful Thread](https://steamcommunity.com/sharedfiles/filedetails/?id=703059693)
  ## Keyboard:
  - Keyboard: [HP KU-0316](https://www.amazon.com/HP-KU-0316-KEYBOARD-SILVER-434821-002/dp/B008FPFT7G)
