@@ -17,7 +17,7 @@ Here is my CS:GO setup/config:
 - Res: 1280x1024 (Stretched/No Black Bars)
   - The GOD res ;)
 - [Vibrance GUI](https://vibrancegui.com/)
- - have it set to 150% in CS:GO
+  - have it set to 150% in CS:GO
  ## Audio;
 - In-Game Audio Ouput: Headphones(Logitech G430)
 - Audio Processing:
