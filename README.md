@@ -18,7 +18,7 @@ Here is my CS:GO setup/config:
   - The GOD res ;)
 - [Vibrance GUI](https://vibrancegui.com/)
   - have it set to 202% in CS:GO
- ## Audio;
+ ## Audio:
 - In-Game Audio Ouput: Headphones(Logitech G430)
 - Audio Processing:
   - Windows: Digital enhancements and effects are all turned off in windows and Logitech Gaming Software
