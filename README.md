@@ -13,7 +13,7 @@ Here is my CS:GO setup/config:
 - Monitor/s:
  - Primary:[ACER G247HYL](https://www.acer.com/ac/en/GB/content/model/UM.QG7EE.009)
    - Ngl not sure this is the right monitor as im fairly sure mine is 1ms response time but we'll go with it
- - Secondary: Some Random Toshiba TV because my old 2ndary monitor broke
+ - Secondary: [ASUS VP228HE](https://www.amazon.co.uk/gp/product/B01MD1GDWK/)
 - Res: 1280x1024 (Stretched/No Black Bars)
   - The GOD res ;)
 - [Vibrance GUI](https://vibrancegui.com/)
