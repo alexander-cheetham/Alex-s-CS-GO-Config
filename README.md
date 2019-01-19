@@ -29,3 +29,7 @@ Here is my CS:GO setup/config:
 ## Weapon Choices:
 - **CT**: M4A4, CZ-75, MP7
 - **T**: CZ:75, MP7
+## Clan Changer Macro
+- My mouse has a macro function which I have used to constantly change my Clan IG, it is a useless macro but cool ;).
+- The software is Corsair Utility Engine and the actual macro is documented below:
+![clan changer macro](https://user-images.githubusercontent.com/42654683/51425923-dc0a6500-1bda-11e9-8046-cc21a3cb93e4.PNG)
