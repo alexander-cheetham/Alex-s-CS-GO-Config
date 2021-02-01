@@ -13,22 +13,21 @@ Here is my CS:GO setup/config:
 - Monitor/s:
  - Primary:[ACER G247HYL](https://www.acer.com/ac/en/GB/content/model/UM.QG7EE.009)
    - Ngl not sure this is the right monitor as im fairly sure mine is 1ms response time but we'll go with it
- - Secondary: [ASUS VP228HE](https://www.amazon.co.uk/gp/product/B01MD1GDWK/)
-- Res: 1280x1024 (Stretched/No Black Bars)
-  - The GOD res ;)
+ - Secondary: [HANSPREE HG244PJB](https://www.hannspree-gaming-hg244pjb.com/)
+- Res: 1440x1080 (Stretched/No Black Bars)
 - [Vibrance GUI](https://vibrancegui.com/)
   - have it set to 202% in CS:GO
  ## Audio:
-- In-Game Audio Ouput: Headphones(Logitech G430)
+- In-Game Audio Ouput: Headphones(Arctis 7 Wireless)
 - Audio Processing:
-  - Windows: Digital enhancements and effects are all turned off in windows and Logitech Gaming Software
-  - CS:GO: Phat load of commands below or see [This Useful Thread](https://steamcommunity.com/sharedfiles/filedetails/?id=703059693)
+  - Windows: Digital enhancements and effects are all turned off in windows
+  - CS:GO: Phat load of commands below or see [This Useful Thread](https://steamcommunity.com/sharedfiles/filedetails/)
  ## Keyboard:
- - Keyboard: [HP KU-0316](https://www.amazon.com/HP-KU-0316-KEYBOARD-SILVER-434821-002/dp/B008FPFT7G)
+ - Keyboard: [FNATIC GEAR RUSH](https://www.amazon.co.uk/Fnatic-Backlit-Mechanical-Keyboard-Switches/dp/B01DKZGQWW)
    - Honestly a grim keyboard will be getting a new one soon xx
 ## Weapon Choices:
 - **CT**: M4A4, CZ-75, MP7
-- **T**: CZ:75, MP7
+- **T**: TEC-9, MP7
 ## Clan Changer Macro
 - My mouse has a macro function which I have used to constantly change my Clan IG, it is a useless macro but cool ;).
 - The software is Corsair Utility Engine and the actual macro is documented below:
